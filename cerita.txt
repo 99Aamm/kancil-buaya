@@ -13,3 +13,10 @@ Kancil berseru kepada para buaya: Hai buaya! Raja hutan ingin
 membagikan daging kepada kalian semua. Aku diperintahkan untuk
 menghitung jumlah kalian. Berbarislah dari tepi ke tepi sungai!
 Para buaya yang serakah langsung berbaris rapi tanpa curiga.
+
+Babak 3: Kancil Menyeberang
+
+Kancil melompat dari punggung satu buaya ke buaya berikutnya,
+sambil pura-pura menghitung. Satu, dua, tiga... dan ketika sampai
+di seberang, ia tertawa. Maaf buaya, tidak ada daging hari ini!
+Kancil pun berlari masuk ke hutan, meninggalkan para buaya yang murka.
